@@ -1,4 +1,4 @@
-const TEST_CONFIG_BASE_ENDPOINT = "https://lopedr38.flexgo.xyz";
+const TEST_CONFIG_BASE_ENDPOINT = "https://reborned.cc";
 const TEST_CONFIG_FILE = "test.yaml";
 
 const CONFIG_BASE_URL = getConfigBaseUrl();
